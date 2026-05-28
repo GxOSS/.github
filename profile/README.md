@@ -2,11 +2,6 @@
 
 Open-source Xbox 360 utilities
 
-## Genexis
-
-Cross-platform Xbox 360 RGH/JTAG/BadUpdate Toolkit. Uses gxBuild, ESPFlasher, FTDI2SPI, xsvftool, and gxRemapper
-
-[Source](https://github.com/GxOSS/Genexis)
 
 ## gxBuild
 
@@ -26,3 +21,8 @@ PicoFlasher-based multi-device Xbox 360 Debugger and NAND/XSVF flasher
 - [Debugger]()
 - [Client](https://github.com/GxOSS/FlasherClient)
 
+## Genexis
+
+Cross-platform Xbox 360 RGH/JTAG/BadUpdate Toolkit. Uses gxBuild, ESPFlasher, FTDI2SPI, xsvftool, and gxRemapper
+
+[Source](https://github.com/GxOSS/Genexis)
