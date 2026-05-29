@@ -17,15 +17,26 @@ Xbox 360 Image Builder (Retail, Glitch, Devkit, XeLL, Shadowboot)
 
 PicoFlasher-based multi-device Xbox 360 Debugger and NAND/XSVF flasher
 
-- [Flasher]() 
-- [Debugger]()
-- [Client](https://github.com/GxOSS/FlasherClient)
+- [Source]()
+
+## GxDebugger
+
+ESP32 SMC / Kernel UART and POST reading
+
+- [Source]()
+
+## FlasherClient
+
+Multiplatform ESPFlasher and PicoFlasher client, TCP and USB
+
+- [Source]()
 
 ## Genexis
 
 Cross-platform Xbox 360 RGH/JTAG/BadUpdate Toolkit. Uses gxBuild, ESPFlasher, FTDI2SPI, xsvftool, and gxRemapper
 
 [Source](https://github.com/GxOSS/Genexis)
+
 
 
 ## Licensing
