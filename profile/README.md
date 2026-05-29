@@ -26,3 +26,8 @@ PicoFlasher-based multi-device Xbox 360 Debugger and NAND/XSVF flasher
 Cross-platform Xbox 360 RGH/JTAG/BadUpdate Toolkit. Uses gxBuild, ESPFlasher, FTDI2SPI, xsvftool, and gxRemapper
 
 [Source](https://github.com/GxOSS/Genexis)
+
+
+## Licensing
+
+All GxOSS Projects are Free and Open Source
