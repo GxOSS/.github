@@ -1,0 +1,4 @@
+- Glitch3m / possibly Glitch1m
+- Glitch1/2/3 x, remove freeBOOT patcher and apply patches directly to decompressed and split CE
+- Linux Images? Replace CE, CF, CG and FlashFS with minimal linux image
+- BSD on 360
