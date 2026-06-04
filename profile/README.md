@@ -1,6 +1,6 @@
 # GxOSS
 
-Open-source Xbox 360 utilities
+Free and Open-source Xbox 360 utilities
 
 
 ## gxBuild
@@ -27,13 +27,14 @@ ESP32 SMC / Kernel UART and POST reading
 
 ## FlasherClient
 
-Multiplatform ESPFlasher and PicoFlasher client, TCP and USB
+Multiplatform FTD2XX, PicoFlasher and ESPFlasher client; NAND, eMMC and XSVF
 
 - [Source]()
 
 ## Genexis
 
-Cross-platform Xbox 360 RGH/JTAG/BadUpdate Toolkit. Uses gxBuild, ESPFlasher, FTDI2SPI, xsvftool, and gxRemapper
+GUI Xbox 360 Toolkit; NAND and BadUpdate builder, NAND and XSVF Flasher, HDD Editor(?)
+Official GUI for GxOSS.
 
 [Source](https://github.com/GxOSS/Genexis)
 
