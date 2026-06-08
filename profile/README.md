@@ -25,7 +25,7 @@ ESP32 SMC / Kernel UART and POST reading
 
 - [Source]()
 
-## FlasherClient
+## NandProMax
 
 Multiplatform FTD2XX, PicoFlasher and ESPFlasher client; NAND, eMMC and XSVF
 
