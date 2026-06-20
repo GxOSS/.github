@@ -3,27 +3,39 @@
 Free and Open-source Xbox 360 utilities
 
 
-## gxBuild
+## gxBuildPP
 
-Xbox 360 Image Builder (Retail, Glitch, Devkit, XeLL, Shadowboot)
+C++ Xbox 360 Image Builder (Retail, Glitch, Devkit, XeLL, Shadowboot)
 
 - [Source](https://github.com/GxOSS/gxBuildPP) 
 - [Patch Sources](https://github.com/GxOSS/gxPatch-sources)
 - [Patch Devtools](https://github.com/GxOSS/gxPatch-devtools)
 - [Support Files](https://github.com/GxOSS/gxBuild-Support-Files)
-- [GxCrypt](https://github.com/GxOSS/GxCrypt)
+
+## NandProMax
+
+Cross-platform Rust xFlasher, PicoFlasher and ESPFlasher client
+
+- [Source](https://github.com/GxOSS/NandProMax) 
+
+## STFS
+
+Modern C++ Cross-platform STFS tools
+
+- [Source](https://github.com/GxOSS/stfs) 
+
+## GxCrypt
+
+Cross-platform fork of ExCrypt
+
+- [Source](https://github.com/GxOSS/GxCrypt)
+
 
 ## ESPFlasher
 
 PicoFlasher-based multi-device Xbox 360 Debugger and NAND/XSVF flasher
 
 - [Source](https://github.com/GxOSS/espflasher)
-
-## NandProMax
-
-Multiplatform FTD2XX, PicoFlasher and ESPFlasher client; NAND, eMMC and XSVF
-
-- [Source](https://github.com/GxOSS/NandProMax)
 
 ## Genexis
 
